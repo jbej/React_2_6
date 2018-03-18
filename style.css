@@ -6,12 +6,12 @@ body {
 
 .box,
 button {
-margin: 20px;
-padding: 10px;
-font-size: 35px;
-font-family: 'Caveat', cursive;
+    margin: 20px;
+    padding: 10px;
+    font-size: 35px;
+    font-family: 'Caveat', cursive;
 }
 
 span {
-display: block;
+    display: block;
 } 
