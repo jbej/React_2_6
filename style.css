@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color:rgb(153, 153, 255);
+    font-size: 35px;
+}
+
+.box,
+button {
+margin: 20px;
+padding: 10px;
+font-size: 35px;
+font-family: 'Caveat', cursive;
+}
+
+span {
+display: block;
+} 
