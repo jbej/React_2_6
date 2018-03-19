@@ -1,6 +1,5 @@
 var Counter = React.createClass({
     getInitialState: function() {
-        console.log("getInitialState: ustawienie stan początkowego");
         return {
             counter: 0
         };
@@ -47,7 +46,7 @@ var Counter = React.createClass({
     },
 
     componentWillUnmount: function(){
-    console.log("componentEillUnmount: np. odpinanie timerów, nasłuchiwanie zdarzeń");
+        console.log("componentEillUnmount: np. odpinanie timerów, nasłuchiwanie zdarzeń");
     },
 
     render: function() {
